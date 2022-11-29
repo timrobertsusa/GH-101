@@ -1,0 +1,15 @@
+/Users/timroberts/Projects/Term-101/GH-101/vsProj101/bin/Debug/net7.0/vsProj101
+/Users/timroberts/Projects/Term-101/GH-101/vsProj101/bin/Debug/net7.0/vsProj101.deps.json
+/Users/timroberts/Projects/Term-101/GH-101/vsProj101/bin/Debug/net7.0/vsProj101.runtimeconfig.json
+/Users/timroberts/Projects/Term-101/GH-101/vsProj101/bin/Debug/net7.0/vsProj101.dll
+/Users/timroberts/Projects/Term-101/GH-101/vsProj101/bin/Debug/net7.0/vsProj101.pdb
+/Users/timroberts/Projects/Term-101/GH-101/vsProj101/obj/Debug/net7.0/vsProj101.csproj.AssemblyReference.cache
+/Users/timroberts/Projects/Term-101/GH-101/vsProj101/obj/Debug/net7.0/vsProj101.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timroberts/Projects/Term-101/GH-101/vsProj101/obj/Debug/net7.0/vsProj101.AssemblyInfoInputs.cache
+/Users/timroberts/Projects/Term-101/GH-101/vsProj101/obj/Debug/net7.0/vsProj101.AssemblyInfo.cs
+/Users/timroberts/Projects/Term-101/GH-101/vsProj101/obj/Debug/net7.0/vsProj101.csproj.CoreCompileInputs.cache
+/Users/timroberts/Projects/Term-101/GH-101/vsProj101/obj/Debug/net7.0/vsProj101.dll
+/Users/timroberts/Projects/Term-101/GH-101/vsProj101/obj/Debug/net7.0/refint/vsProj101.dll
+/Users/timroberts/Projects/Term-101/GH-101/vsProj101/obj/Debug/net7.0/vsProj101.pdb
+/Users/timroberts/Projects/Term-101/GH-101/vsProj101/obj/Debug/net7.0/vsProj101.genruntimeconfig.cache
+/Users/timroberts/Projects/Term-101/GH-101/vsProj101/obj/Debug/net7.0/ref/vsProj101.dll
